@@ -7,8 +7,8 @@ local entity = Creator.createEntity({
 
 -- Create entity
 local entity = Creator.createEntity({
-    CustomName = "get trolled (by neon)", -- Custom name of your entity
-    Model = "rbxassetid://11541624412", -- Can be GitHub file or rbxassetid
+    CustomName = "matcher", -- Custom name of your entity
+    Model = "rbxassetid://11402557910", -- Can be GitHub file or rbxassetid
     Speed = 400, -- Percentage, 100 = default Rush speed
     DelayTime = 2, -- Time before starting cycles (seconds)
     HeightOffset = 0,
